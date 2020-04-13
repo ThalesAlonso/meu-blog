@@ -1,4 +1,4 @@
-const handle = "johndoe"
+const handle = "Thales Alonso"
 
 const links = [
   {
