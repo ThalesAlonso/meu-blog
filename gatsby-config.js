@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `Thales Alonso`,
     position: `Developer`,
-    description: `A blog about backend development and other cool stuff.`,
+    description: `Aspirante a Desenvolvedor, Pai do João Marcos e Gael, muito bem Casado com Yasmin.`,
     author: `@ThalesAlonso`,
     siteUrl: `https://thalesalonso.com.br`,
   },
