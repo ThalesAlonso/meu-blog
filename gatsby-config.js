@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `Thales Alonso`,
     position: `Developer`,
-    description: `Aspirante a Desenvolvedor, Pai do João Marcos e Gael, muito bem Casado com Yasmin.`,
+    description: `Aspirante a Desenvolvedor, Pai do João Marcos e Gael, Casado com Yasmin.`,
     author: `@ThalesAlonso`,
     siteUrl: `https://thalesalonso.com.br`,
   },
