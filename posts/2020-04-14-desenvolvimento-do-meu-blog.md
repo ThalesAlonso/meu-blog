@@ -2,7 +2,7 @@
 title: Desenvolvimento do meu Blog
 description: Como foi a experiência de desenvolver meu blog pessoal
 date: '2020-04-13 09:50:58'
-image: assets/img/giphy-1-.gif
+image: assets/img/giphy1.gif
 category: js
 background: '#637a91'
 ---
