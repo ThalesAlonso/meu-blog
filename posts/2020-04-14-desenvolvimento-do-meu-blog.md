@@ -42,4 +42,4 @@ Mas desse vez foi diferente eu mantive o foco e sentei a bunda na cadeira e come
 * Não tenho tempo
 * Isso é muito difícil para mim 
 
-*Enfim dessa vez foi, me desculpem se o texto ficou ruim, pois é o **primeiro post** de muitos. O primeiro a gente nunca esquece !*
+Enfim dessa vez foi, me desculpem se o texto ficou ruim, pois é o **primeiro post** de muitos. O primeiro a gente nunca esquece !*
