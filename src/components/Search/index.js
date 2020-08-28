@@ -16,9 +16,8 @@ const Search = () => (
     <InstantSearch
       appId={algolia.appId}
       apiKey={algolia.searchOnlyApiKey}
-      indexName={algolia.indexName}
-    >
-      <SearchBox autoFocus translations={{ placeholder: "Pesquisar..." }} />
+      indexName={algolia.indexName}>
+      <SearchBox autoFocus translations={{ placeholder: "Pesquisar..." }}/>
       <Stats
         translations={{
           stats(nbHits, timeSpentMs) {
@@ -26,9 +25,9 @@ const Search = () => (
           },
         }}
       />
-      <Hits hitComponent={Hit} />
+      <Hits hitComponent={Hit}/>
     </InstantSearch>
   </S.SearchWrapper>
+  
 )
-
 export default Search
